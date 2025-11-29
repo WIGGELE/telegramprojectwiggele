@@ -1,0 +1,6 @@
+aiogram==2.25.1
+yt-dlp==2025.1.1
+youtube-search-python==1.7.6
+ffmpeg-python==0.2.0
+pydub==0.25.1
+requests==2.32.3
