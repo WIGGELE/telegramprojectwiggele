@@ -3,7 +3,7 @@ import os
 from aiogram import Bot, Dispatcher, types, executor
 from youtubesearchpython import VideosSearch
 
-TOKEN = "ВАШ_ТОКЕН_ОТ_ОТЦА_БОТОВ"
+TOKEN = "6378040699:AAESbisI818kPjSb5ttOCQzgyw-tcFqKEys"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
